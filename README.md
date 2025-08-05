@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Jagdish Parida!<br><br>🔭 I’m currently working on building my foundation in AI/ML and game development.<br>👯 I’m looking to collaborate on beginner-friendly AI, ML, and game development projects.<br>🤝 I’m looking for help with learning core concepts in machine learning, game development, and best coding practices.<br>🌱 I’m currently learning Python, Java, AI/ML basics, and game development fundamentals.<br>💬 Ask me about my learning journey, the challenges I'm facing, or anything tech-related!.<br>⚡ Fun fact I love exploring new technologies, even if I have no idea how they work at first!.
+👋 Hi, I am Jagdish Parida!<br><br>🔭 I’m currently working on building my foundation in AI/ML and web development.<br>👯 I’m looking to collaborate on beginner-friendly AI, ML, and web development projects.<br>🤝 I’m looking for help with learning core concepts in machine learning, web development, and best coding practices.<br>🌱 I’m currently learning Python, Java, AI/ML basics, and web development fundamentals.<br>💬 Ask me about my learning journey, the challenges I'm facing, or anything tech-related!.<br>
 
 
 ## 🌐 Socials:
